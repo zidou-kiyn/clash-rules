@@ -509,6 +509,13 @@ rule-providers:
     path: ./ruleset/zidou_us.yaml
     interval: 86400
 
+  zidou_jp:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/zidou-kiyn/clash-rules/main/rules/zidou_jp.txt"
+    path: ./ruleset/zidou_jp.yaml
+    interval: 86400
+
 rules:
   # zidou先配置
   - RULE-SET,zidou_direct_applications,🔗 无需代理
@@ -517,6 +524,7 @@ rules:
   - RULE-SET,applications,🔗 无需代理
   - RULE-SET,zidou_ai,💬 AI专用
   - RULE-SET,zidou_us,🇺🇸 美国自动
+  - RULE-SET,zidou_jp,🇯🇵 日本自动
   - RULE-SET,zidou_telegram,📲 Telegram
   # 最后是clash规则集
   - DOMAIN,clash.razord.top,🔗 无需代理
