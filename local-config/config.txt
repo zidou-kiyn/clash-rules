@@ -517,12 +517,12 @@ rules:
   - RULE-SET,reject,🛡️ 广告拦截
   - RULE-SET,icloud,🔗 无需代理
   - RULE-SET,apple,🔗 无需代理
-  - RULE-SET,google,✈️ 节点选择
-  - RULE-SET,proxy,✈️ 节点选择
+  - RULE-SET,google,🇺🇸 美国自动
   - RULE-SET,direct,🔗 无需代理
   - RULE-SET,lancidr,🔗 无需代理
   - RULE-SET,cncidr,🔗 无需代理
-  - RULE-SET,telegramcidr,✈️ 节点选择
+  - RULE-SET,telegramcidr,📲 Telegram
   - GEOIP,LAN,🔗 无需代理,no-resolve
   - GEOIP,CN,🔗 无需代理,no-resolve
+  - RULE-SET,proxy,✈️ 节点选择
   - MATCH,✈️ 节点选择
