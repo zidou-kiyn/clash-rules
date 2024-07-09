@@ -526,6 +526,7 @@ rules:
   - RULE-SET,zidou_singapore_ipcidr,🇸🇬 狮城自动
   - RULE-SET,zidou_telegram_classical,📲 Telegram
   # 最后是clash规则集
+  - RULE-SET,gfw,🔗 无需代理
   - RULE-SET,applications,🔗 无需代理
   - DOMAIN,clash.razord.top,🔗 无需代理
   - DOMAIN,yacd.haishan.me,🔗 无需代理
@@ -541,4 +542,5 @@ rules:
   - GEOIP,LAN,🔗 无需代理,no-resolve
   - GEOIP,CN,🔗 无需代理,no-resolve
   - RULE-SET,proxy,✈️ 节点选择
+  - RULE-SET,tld-not-cn,🇺🇸 美国自动
   - MATCH,✈️ 节点选择
