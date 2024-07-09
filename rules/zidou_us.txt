@@ -2,3 +2,6 @@ payload:
   - '+.linux.do'
   - '+.new.oaifree.com'
   - '+.new.tarozero.top'
+  - '+.githubusercontent.com'
+  - '+.github.com'
+  - '+.githubassets.com'
