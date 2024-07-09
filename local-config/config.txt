@@ -487,11 +487,30 @@ rule-providers:
     url: "https://raw.githubusercontent.com/zidou-kiyn/clash-rules/main/rules/zidou_direct.txt"
     path: ./ruleset/zidou_direct.yaml
     interval: 86400
+
+  zidou_ai:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/zidou-kiyn/clash-rules/main/rules/zidou_ai.txt"
+    path: ./ruleset/zidou_ai.yaml
+    interval: 86400
+
+  zidou_telegram:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/zidou-kiyn/clash-rules/main/rules/zidou_telegram.txt"
+    path: ./ruleset/zidou_telegram.yaml
+    interval: 86400
+
 rules:
+  # zidou先配置
   - RULE-SET,zidou_direct_applications,🔗 无需代理
   - RULE-SET,zidou_direct_game,🔗 无需代理
   - RULE-SET,zidou_direct,🔗 无需代理
   - RULE-SET,applications,🔗 无需代理
+  - RULE-SET,zidou_ai,💬 AI专用
+  - RULE-SET,zidou_telegram,📲 Telegram
+  # 最后是clash规则集
   - DOMAIN,clash.razord.top,🔗 无需代理
   - DOMAIN,yacd.haishan.me,🔗 无需代理
   - RULE-SET,private,🔗 无需代理
