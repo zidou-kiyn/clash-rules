@@ -1,0 +1,5 @@
+payload:
+  - PROCESS-NAME,TslGame
+  - PROCESS-NAME,TslGame.exe
+  - PROCESS-NAME,op
+  - PROCESS-NAME,op.exe
