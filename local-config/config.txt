@@ -12,68 +12,68 @@ proxy-groups:
       - 🇸🇬 狮城自动
       - 🇺🇸 美国自动
       - 🇯🇵 日本自动
-      - Hong Kong | 01
-      - Hong Kong | 02
-      - Hong Kong | 03
-      - Hong Kong | 04
-      - Hong Kong | 05
-      - Hong Kong | 06
-      - Hong Kong | 07
-      - Hong Kong | 08
-      - Taiwan | 01
-      - Taiwan | 02
-      - Taiwan | 03
-      - Taiwan | 04
-      - Taiwan | 05
-      - Taiwan | 06
-      - Taiwan | 07
-      - Taiwan | 08
-      - Singapore | 01
-      - Singapore | 02
-      - Singapore | 03
-      - Singapore | 04
-      - Singapore | 05
-      - Singapore | 06
-      - Singapore | 07
-      - Singapore | 08
-      - Japan | 01
-      - Japan | 02
-      - Japan | 03
-      - Japan | 04
-      - Japan | 05
-      - Japan | 06
-      - Japan | 07
-      - Japan | 08
-      - United States | 01
-      - United States | 02
-      - United States | 03
-      - United States | 04
-      - United States | 05
-      - United States | 06
-      - United States | 07
-      - United States | 08
-      - Canada | 01
-      - United Kingdom | 01
-      - United Kingdom | 02
-      - Germany | 01
-      - Germany | 02
-      - Netherlands | 01
-      - Netherlands | 02
-      - Italy | 01
-      - Spain | 01
-      - Turkey | 01
-      - Australia | 01
-      - Argentina | 01
-      - Brazil | 01
-      - Chile | 01
-      - Korea | 01
-      - India | 01
-      - Israel | 01
-      - Thailand | 01
-      - Vietnam | 01
-      - Malaysia | 01
-      - Johannesburg | 01
       - 🇪🇺 欧洲自动
+      - 🇭🇰 Hong Kong | 01
+      - 🇭🇰 Hong Kong | 02
+      - 🇭🇰 Hong Kong | 03
+      - 🇭🇰 Hong Kong | 04
+      - 🇭🇰 Hong Kong | 05
+      - 🇭🇰 Hong Kong | 06
+      - 🇭🇰 Hong Kong | 07
+      - 🇭🇰 Hong Kong | 08
+      - 🇨🇳 Taiwan | 01
+      - 🇨🇳 Taiwan | 02
+      - 🇨🇳 Taiwan | 03
+      - 🇨🇳 Taiwan | 04
+      - 🇨🇳 Taiwan | 05
+      - 🇨🇳 Taiwan | 06
+      - 🇨🇳 Taiwan | 07
+      - 🇨🇳 Taiwan | 08
+      - 🇸🇬 Singapore | 01
+      - 🇸🇬 Singapore | 02
+      - 🇸🇬 Singapore | 03
+      - 🇸🇬 Singapore | 04
+      - 🇸🇬 Singapore | 05
+      - 🇸🇬 Singapore | 06
+      - 🇸🇬 Singapore | 07
+      - 🇸🇬 Singapore | 08
+      - 🇯🇵 Japan | 01
+      - 🇯🇵 Japan | 02
+      - 🇯🇵 Japan | 03
+      - 🇯🇵 Japan | 04
+      - 🇯🇵 Japan | 05
+      - 🇯🇵 Japan | 06
+      - 🇯🇵 Japan | 07
+      - 🇯🇵 Japan | 08
+      - 🇺🇸 United States | 01
+      - 🇺🇸 United States | 02
+      - 🇺🇸 United States | 03
+      - 🇺🇸 United States | 04
+      - 🇺🇸 United States | 05
+      - 🇺🇸 United States | 06
+      - 🇺🇸 United States | 07
+      - 🇺🇸 United States | 08
+      - 🇨🇦 Canada | 01
+      - 🇬🇧 United Kingdom | 01
+      - 🇬🇧 United Kingdom | 02
+      - 🇩🇪 Germany | 01
+      - 🇩🇪 Germany | 02
+      - 🇳🇱 Netherlands | 01
+      - 🇳🇱 Netherlands | 02
+      - 🇮🇹 Italy | 01
+      - 🇪🇸 Spain | 01
+      - 🇹🇷 Turkey | 01
+      - 🇦🇺 Australia | 01
+      - 🇦🇷 Argentina | 01
+      - 🇧🇷 Brazil | 01
+      - 🇨🇱 Chile | 01
+      - 🇰🇷 Korea | 01
+      - 🇮🇳 India | 01
+      - 🇮🇱 Israel | 01
+      - 🇹🇭 Thailand | 01
+      - 🇻🇳 Vietnam | 01
+      - 🇲🇾 Malaysia | 01
+      - 🇿🇦 Johannesburg | 01
       - DIRECT
   - name: 🌿 自动选择
     type: url-test
@@ -81,151 +81,151 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - Hong Kong | 01
-      - Hong Kong | 02
-      - Hong Kong | 03
-      - Hong Kong | 04
-      - Hong Kong | 05
-      - Hong Kong | 06
-      - Hong Kong | 07
-      - Hong Kong | 08
-      - Taiwan | 01
-      - Taiwan | 02
-      - Taiwan | 03
-      - Taiwan | 04
-      - Taiwan | 05
-      - Taiwan | 06
-      - Taiwan | 07
-      - Taiwan | 08
-      - Singapore | 01
-      - Singapore | 02
-      - Singapore | 03
-      - Singapore | 04
-      - Singapore | 05
-      - Singapore | 06
-      - Singapore | 07
-      - Singapore | 08
-      - Japan | 01
-      - Japan | 02
-      - Japan | 03
-      - Japan | 04
-      - Japan | 05
-      - Japan | 06
-      - Japan | 07
-      - Japan | 08
-      - United States | 01
-      - United States | 02
-      - United States | 03
-      - United States | 04
-      - United States | 05
-      - United States | 06
-      - United States | 07
-      - United States | 08
-      - Canada | 01
-      - United Kingdom | 01
-      - United Kingdom | 02
-      - Germany | 01
-      - Germany | 02
-      - Netherlands | 01
-      - Netherlands | 02
-      - Italy | 01
-      - Spain | 01
-      - Turkey | 01
-      - Australia | 01
-      - Argentina | 01
-      - Brazil | 01
-      - Chile | 01
-      - Korea | 01
-      - India | 01
-      - Israel | 01
-      - Thailand | 01
-      - Vietnam | 01
-      - Malaysia | 01
-      - Johannesburg | 01
+      - 🇭🇰 Hong Kong | 01
+      - 🇭🇰 Hong Kong | 02
+      - 🇭🇰 Hong Kong | 03
+      - 🇭🇰 Hong Kong | 04
+      - 🇭🇰 Hong Kong | 05
+      - 🇭🇰 Hong Kong | 06
+      - 🇭🇰 Hong Kong | 07
+      - 🇭🇰 Hong Kong | 08
+      - 🇨🇳 Taiwan | 01
+      - 🇨🇳 Taiwan | 02
+      - 🇨🇳 Taiwan | 03
+      - 🇨🇳 Taiwan | 04
+      - 🇨🇳 Taiwan | 05
+      - 🇨🇳 Taiwan | 06
+      - 🇨🇳 Taiwan | 07
+      - 🇨🇳 Taiwan | 08
+      - 🇸🇬 Singapore | 01
+      - 🇸🇬 Singapore | 02
+      - 🇸🇬 Singapore | 03
+      - 🇸🇬 Singapore | 04
+      - 🇸🇬 Singapore | 05
+      - 🇸🇬 Singapore | 06
+      - 🇸🇬 Singapore | 07
+      - 🇸🇬 Singapore | 08
+      - 🇯🇵 Japan | 01
+      - 🇯🇵 Japan | 02
+      - 🇯🇵 Japan | 03
+      - 🇯🇵 Japan | 04
+      - 🇯🇵 Japan | 05
+      - 🇯🇵 Japan | 06
+      - 🇯🇵 Japan | 07
+      - 🇯🇵 Japan | 08
+      - 🇺🇸 United States | 01
+      - 🇺🇸 United States | 02
+      - 🇺🇸 United States | 03
+      - 🇺🇸 United States | 04
+      - 🇺🇸 United States | 05
+      - 🇺🇸 United States | 06
+      - 🇺🇸 United States | 07
+      - 🇺🇸 United States | 08
+      - 🇨🇦 Canada | 01
+      - 🇬🇧 United Kingdom | 01
+      - 🇬🇧 United Kingdom | 02
+      - 🇩🇪 Germany | 01
+      - 🇩🇪 Germany | 02
+      - 🇳🇱 Netherlands | 01
+      - 🇳🇱 Netherlands | 02
+      - 🇮🇹 Italy | 01
+      - 🇪🇸 Spain | 01
+      - 🇹🇷 Turkey | 01
+      - 🇦🇺 Australia | 01
+      - 🇦🇷 Argentina | 01
+      - 🇧🇷 Brazil | 01
+      - 🇨🇱 Chile | 01
+      - 🇰🇷 Korea | 01
+      - 🇮🇳 India | 01
+      - 🇮🇱 Israel | 01
+      - 🇹🇭 Thailand | 01
+      - 🇻🇳 Vietnam | 01
+      - 🇲🇾 Malaysia | 01
+      - 🇿🇦 Johannesburg | 01
   - name: 🇭🇰 香港自动
     type: url-test
     url: https://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - Hong Kong | 01
-      - Hong Kong | 02
-      - Hong Kong | 03
-      - Hong Kong | 04
-      - Hong Kong | 05
-      - Hong Kong | 06
-      - Hong Kong | 07
-      - Hong Kong | 08
+      - 🇭🇰 Hong Kong | 01
+      - 🇭🇰 Hong Kong | 02
+      - 🇭🇰 Hong Kong | 03
+      - 🇭🇰 Hong Kong | 04
+      - 🇭🇰 Hong Kong | 05
+      - 🇭🇰 Hong Kong | 06
+      - 🇭🇰 Hong Kong | 07
+      - 🇭🇰 Hong Kong | 08
   - name: 🇨🇳 台湾自动
     type: url-test
     url: https://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - Taiwan | 01
-      - Taiwan | 02
-      - Taiwan | 03
-      - Taiwan | 04
-      - Taiwan | 05
-      - Taiwan | 06
-      - Taiwan | 07
-      - Taiwan | 08
+      - 🇨🇳 Taiwan | 01
+      - 🇨🇳 Taiwan | 02
+      - 🇨🇳 Taiwan | 03
+      - 🇨🇳 Taiwan | 04
+      - 🇨🇳 Taiwan | 05
+      - 🇨🇳 Taiwan | 06
+      - 🇨🇳 Taiwan | 07
+      - 🇨🇳 Taiwan | 08
   - name: 🇸🇬 狮城自动
     type: url-test
     url: https://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - Singapore | 01
-      - Singapore | 02
-      - Singapore | 03
-      - Singapore | 04
-      - Singapore | 05
-      - Singapore | 06
-      - Singapore | 07
-      - Singapore | 08
+      - 🇸🇬 Singapore | 01
+      - 🇸🇬 Singapore | 02
+      - 🇸🇬 Singapore | 03
+      - 🇸🇬 Singapore | 04
+      - 🇸🇬 Singapore | 05
+      - 🇸🇬 Singapore | 06
+      - 🇸🇬 Singapore | 07
+      - 🇸🇬 Singapore | 08
   - name: 🇺🇸 美国自动
     type: url-test
     url: https://www.gstatic.com/generate_204
     interval: 300
     tolerance: 80
     proxies:
-      - United States | 01
-      - United States | 02
-      - United States | 03
-      - United States | 04
-      - United States | 05
-      - United States | 06
-      - United States | 07
-      - United States | 08
+      - 🇺🇸 United States | 01
+      - 🇺🇸 United States | 02
+      - 🇺🇸 United States | 03
+      - 🇺🇸 United States | 04
+      - 🇺🇸 United States | 05
+      - 🇺🇸 United States | 06
+      - 🇺🇸 United States | 07
+      - 🇺🇸 United States | 08
   - name: 🇯🇵 日本自动
     type: url-test
     url: https://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - Japan | 01
-      - Japan | 02
-      - Japan | 03
-      - Japan | 04
-      - Japan | 05
-      - Japan | 06
-      - Japan | 07
-      - Japan | 08
+      - 🇯🇵 Japan | 01
+      - 🇯🇵 Japan | 02
+      - 🇯🇵 Japan | 03
+      - 🇯🇵 Japan | 04
+      - 🇯🇵 Japan | 05
+      - 🇯🇵 Japan | 06
+      - 🇯🇵 Japan | 07
+      - 🇯🇵 Japan | 08
   - name: 🇪🇺 欧洲自动
     type: url-test
     url: https://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - United Kingdom | 01
-      - United Kingdom | 02
-      - Germany | 01
-      - Germany | 02
-      - Netherlands | 01
-      - Netherlands | 02
-      - Italy | 01
-      - Spain | 01
+      - 🇬🇧 United Kingdom | 01
+      - 🇬🇧 United Kingdom | 02
+      - 🇩🇪 Germany | 01
+      - 🇩🇪 Germany | 02
+      - 🇳🇱 Netherlands | 01
+      - 🇳🇱 Netherlands | 02
+      - 🇮🇹 Italy | 01
+      - 🇪🇸 Spain | 01
   - name: 💬 AI专用
     type: select
     proxies:
@@ -234,59 +234,67 @@ proxy-groups:
       - 🇺🇸 美国自动
       - 🇨🇳 台湾自动
       - 🇪🇺 欧洲自动
-      - Taiwan | 01
-      - Taiwan | 02
-      - Taiwan | 03
-      - Taiwan | 04
-      - Taiwan | 05
-      - Taiwan | 06
-      - Taiwan | 07
-      - Taiwan | 08
-      - Singapore | 01
-      - Singapore | 02
-      - Singapore | 03
-      - Singapore | 04
-      - Singapore | 05
-      - Singapore | 06
-      - Singapore | 07
-      - Singapore | 08
-      - Japan | 01
-      - Japan | 02
-      - Japan | 03
-      - Japan | 04
-      - Japan | 05
-      - Japan | 06
-      - Japan | 07
-      - Japan | 08
-      - United States | 01
-      - United States | 02
-      - United States | 03
-      - United States | 04
-      - United States | 05
-      - United States | 06
-      - United States | 07
-      - United States | 08
-      - Canada | 01
-      - United Kingdom | 01
-      - United Kingdom | 02
-      - Germany | 01
-      - Germany | 02
-      - Netherlands | 01
-      - Netherlands | 02
-      - Italy | 01
-      - Spain | 01
-      - Turkey | 01
-      - Australia | 01
-      - Argentina | 01
-      - Brazil | 01
-      - Chile | 01
-      - Korea | 01
-      - India | 01
-      - Israel | 01
-      - Thailand | 01
-      - Vietnam | 01
-      - Malaysia | 01
-      - Johannesburg | 01
+      - 🇭🇰 Hong Kong | 01
+      - 🇭🇰 Hong Kong | 02
+      - 🇭🇰 Hong Kong | 03
+      - 🇭🇰 Hong Kong | 04
+      - 🇭🇰 Hong Kong | 05
+      - 🇭🇰 Hong Kong | 06
+      - 🇭🇰 Hong Kong | 07
+      - 🇭🇰 Hong Kong | 08
+      - 🇨🇳 Taiwan | 01
+      - 🇨🇳 Taiwan | 02
+      - 🇨🇳 Taiwan | 03
+      - 🇨🇳 Taiwan | 04
+      - 🇨🇳 Taiwan | 05
+      - 🇨🇳 Taiwan | 06
+      - 🇨🇳 Taiwan | 07
+      - 🇨🇳 Taiwan | 08
+      - 🇸🇬 Singapore | 01
+      - 🇸🇬 Singapore | 02
+      - 🇸🇬 Singapore | 03
+      - 🇸🇬 Singapore | 04
+      - 🇸🇬 Singapore | 05
+      - 🇸🇬 Singapore | 06
+      - 🇸🇬 Singapore | 07
+      - 🇸🇬 Singapore | 08
+      - 🇯🇵 Japan | 01
+      - 🇯🇵 Japan | 02
+      - 🇯🇵 Japan | 03
+      - 🇯🇵 Japan | 04
+      - 🇯🇵 Japan | 05
+      - 🇯🇵 Japan | 06
+      - 🇯🇵 Japan | 07
+      - 🇯🇵 Japan | 08
+      - 🇺🇸 United States | 01
+      - 🇺🇸 United States | 02
+      - 🇺🇸 United States | 03
+      - 🇺🇸 United States | 04
+      - 🇺🇸 United States | 05
+      - 🇺🇸 United States | 06
+      - 🇺🇸 United States | 07
+      - 🇺🇸 United States | 08
+      - 🇨🇦 Canada | 01
+      - 🇬🇧 United Kingdom | 01
+      - 🇬🇧 United Kingdom | 02
+      - 🇩🇪 Germany | 01
+      - 🇩🇪 Germany | 02
+      - 🇳🇱 Netherlands | 01
+      - 🇳🇱 Netherlands | 02
+      - 🇮🇹 Italy | 01
+      - 🇪🇸 Spain | 01
+      - 🇹🇷 Turkey | 01
+      - 🇦🇺 Australia | 01
+      - 🇦🇷 Argentina | 01
+      - 🇧🇷 Brazil | 01
+      - 🇨🇱 Chile | 01
+      - 🇰🇷 Korea | 01
+      - 🇮🇳 India | 01
+      - 🇮🇱 Israel | 01
+      - 🇹🇭 Thailand | 01
+      - 🇻🇳 Vietnam | 01
+      - 🇲🇾 Malaysia | 01
+      - 🇿🇦 Johannesburg | 01
   - name: 📲 Telegram
     type: select
     proxies:
@@ -296,67 +304,67 @@ proxy-groups:
       - 🇭🇰 香港自动
       - 🇨🇳 台湾自动
       - 🇯🇵 日本自动
-      - Hong Kong | 01
-      - Hong Kong | 02
-      - Hong Kong | 03
-      - Hong Kong | 04
-      - Hong Kong | 05
-      - Hong Kong | 06
-      - Hong Kong | 07
-      - Hong Kong | 08
-      - Taiwan | 01
-      - Taiwan | 02
-      - Taiwan | 03
-      - Taiwan | 04
-      - Taiwan | 05
-      - Taiwan | 06
-      - Taiwan | 07
-      - Taiwan | 08
-      - Singapore | 01
-      - Singapore | 02
-      - Singapore | 03
-      - Singapore | 04
-      - Singapore | 05
-      - Singapore | 06
-      - Singapore | 07
-      - Singapore | 08
-      - Japan | 01
-      - Japan | 02
-      - Japan | 03
-      - Japan | 04
-      - Japan | 05
-      - Japan | 06
-      - Japan | 07
-      - Japan | 08
-      - United States | 01
-      - United States | 02
-      - United States | 03
-      - United States | 04
-      - United States | 05
-      - United States | 06
-      - United States | 07
-      - United States | 08
-      - Canada | 01
-      - United Kingdom | 01
-      - United Kingdom | 02
-      - Germany | 01
-      - Germany | 02
-      - Netherlands | 01
-      - Netherlands | 02
-      - Italy | 01
-      - Spain | 01
-      - Turkey | 01
-      - Australia | 01
-      - Argentina | 01
-      - Brazil | 01
-      - Chile | 01
-      - Korea | 01
-      - India | 01
-      - Israel | 01
-      - Thailand | 01
-      - Vietnam | 01
-      - Malaysia | 01
-      - Johannesburg | 01
+      - 🇭🇰 Hong Kong | 01
+      - 🇭🇰 Hong Kong | 02
+      - 🇭🇰 Hong Kong | 03
+      - 🇭🇰 Hong Kong | 04
+      - 🇭🇰 Hong Kong | 05
+      - 🇭🇰 Hong Kong | 06
+      - 🇭🇰 Hong Kong | 07
+      - 🇭🇰 Hong Kong | 08
+      - 🇨🇳 Taiwan | 01
+      - 🇨🇳 Taiwan | 02
+      - 🇨🇳 Taiwan | 03
+      - 🇨🇳 Taiwan | 04
+      - 🇨🇳 Taiwan | 05
+      - 🇨🇳 Taiwan | 06
+      - 🇨🇳 Taiwan | 07
+      - 🇨🇳 Taiwan | 08
+      - 🇸🇬 Singapore | 01
+      - 🇸🇬 Singapore | 02
+      - 🇸🇬 Singapore | 03
+      - 🇸🇬 Singapore | 04
+      - 🇸🇬 Singapore | 05
+      - 🇸🇬 Singapore | 06
+      - 🇸🇬 Singapore | 07
+      - 🇸🇬 Singapore | 08
+      - 🇯🇵 Japan | 01
+      - 🇯🇵 Japan | 02
+      - 🇯🇵 Japan | 03
+      - 🇯🇵 Japan | 04
+      - 🇯🇵 Japan | 05
+      - 🇯🇵 Japan | 06
+      - 🇯🇵 Japan | 07
+      - 🇯🇵 Japan | 08
+      - 🇺🇸 United States | 01
+      - 🇺🇸 United States | 02
+      - 🇺🇸 United States | 03
+      - 🇺🇸 United States | 04
+      - 🇺🇸 United States | 05
+      - 🇺🇸 United States | 06
+      - 🇺🇸 United States | 07
+      - 🇺🇸 United States | 08
+      - 🇨🇦 Canada | 01
+      - 🇬🇧 United Kingdom | 01
+      - 🇬🇧 United Kingdom | 02
+      - 🇩🇪 Germany | 01
+      - 🇩🇪 Germany | 02
+      - 🇳🇱 Netherlands | 01
+      - 🇳🇱 Netherlands | 02
+      - 🇮🇹 Italy | 01
+      - 🇪🇸 Spain | 01
+      - 🇹🇷 Turkey | 01
+      - 🇦🇺 Australia | 01
+      - 🇦🇷 Argentina | 01
+      - 🇧🇷 Brazil | 01
+      - 🇨🇱 Chile | 01
+      - 🇰🇷 Korea | 01
+      - 🇮🇳 India | 01
+      - 🇮🇱 Israel | 01
+      - 🇹🇭 Thailand | 01
+      - 🇻🇳 Vietnam | 01
+      - 🇲🇾 Malaysia | 01
+      - 🇿🇦 Johannesburg | 01
       - DIRECT
   - name: 🔗 无需代理
     type: select
