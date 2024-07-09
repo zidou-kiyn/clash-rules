@@ -1,0 +1,509 @@
+# Profile Template for Clash Verge
+
+proxies:
+
+proxy-groups:
+  - name: ✈️ 节点选择
+    type: select
+    proxies:
+      - 🌿 自动选择
+      - 🇭🇰 香港自动
+      - 🇨🇳 台湾自动
+      - 🇸🇬 狮城自动
+      - 🇺🇸 美国自动
+      - 🇯🇵 日本自动
+      - Hong Kong | 01
+      - Hong Kong | 02
+      - Hong Kong | 03
+      - Hong Kong | 04
+      - Hong Kong | 05
+      - Hong Kong | 06
+      - Hong Kong | 07
+      - Hong Kong | 08
+      - Taiwan | 01
+      - Taiwan | 02
+      - Taiwan | 03
+      - Taiwan | 04
+      - Taiwan | 05
+      - Taiwan | 06
+      - Taiwan | 07
+      - Taiwan | 08
+      - Singapore | 01
+      - Singapore | 02
+      - Singapore | 03
+      - Singapore | 04
+      - Singapore | 05
+      - Singapore | 06
+      - Singapore | 07
+      - Singapore | 08
+      - Japan | 01
+      - Japan | 02
+      - Japan | 03
+      - Japan | 04
+      - Japan | 05
+      - Japan | 06
+      - Japan | 07
+      - Japan | 08
+      - United States | 01
+      - United States | 02
+      - United States | 03
+      - United States | 04
+      - United States | 05
+      - United States | 06
+      - United States | 07
+      - United States | 08
+      - Canada | 01
+      - United Kingdom | 01
+      - United Kingdom | 02
+      - Germany | 01
+      - Germany | 02
+      - Netherlands | 01
+      - Netherlands | 02
+      - Italy | 01
+      - Spain | 01
+      - Turkey | 01
+      - Australia | 01
+      - Argentina | 01
+      - Brazil | 01
+      - Chile | 01
+      - Korea | 01
+      - India | 01
+      - Israel | 01
+      - Thailand | 01
+      - Vietnam | 01
+      - Malaysia | 01
+      - Johannesburg | 01
+      - 🇪🇺 欧洲自动
+      - DIRECT
+  - name: 🌿 自动选择
+    type: url-test
+    url: https://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - Hong Kong | 01
+      - Hong Kong | 02
+      - Hong Kong | 03
+      - Hong Kong | 04
+      - Hong Kong | 05
+      - Hong Kong | 06
+      - Hong Kong | 07
+      - Hong Kong | 08
+      - Taiwan | 01
+      - Taiwan | 02
+      - Taiwan | 03
+      - Taiwan | 04
+      - Taiwan | 05
+      - Taiwan | 06
+      - Taiwan | 07
+      - Taiwan | 08
+      - Singapore | 01
+      - Singapore | 02
+      - Singapore | 03
+      - Singapore | 04
+      - Singapore | 05
+      - Singapore | 06
+      - Singapore | 07
+      - Singapore | 08
+      - Japan | 01
+      - Japan | 02
+      - Japan | 03
+      - Japan | 04
+      - Japan | 05
+      - Japan | 06
+      - Japan | 07
+      - Japan | 08
+      - United States | 01
+      - United States | 02
+      - United States | 03
+      - United States | 04
+      - United States | 05
+      - United States | 06
+      - United States | 07
+      - United States | 08
+      - Canada | 01
+      - United Kingdom | 01
+      - United Kingdom | 02
+      - Germany | 01
+      - Germany | 02
+      - Netherlands | 01
+      - Netherlands | 02
+      - Italy | 01
+      - Spain | 01
+      - Turkey | 01
+      - Australia | 01
+      - Argentina | 01
+      - Brazil | 01
+      - Chile | 01
+      - Korea | 01
+      - India | 01
+      - Israel | 01
+      - Thailand | 01
+      - Vietnam | 01
+      - Malaysia | 01
+      - Johannesburg | 01
+  - name: 🇭🇰 香港自动
+    type: url-test
+    url: https://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - Hong Kong | 01
+      - Hong Kong | 02
+      - Hong Kong | 03
+      - Hong Kong | 04
+      - Hong Kong | 05
+      - Hong Kong | 06
+      - Hong Kong | 07
+      - Hong Kong | 08
+  - name: 🇨🇳 台湾自动
+    type: url-test
+    url: https://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - Taiwan | 01
+      - Taiwan | 02
+      - Taiwan | 03
+      - Taiwan | 04
+      - Taiwan | 05
+      - Taiwan | 06
+      - Taiwan | 07
+      - Taiwan | 08
+  - name: 🇸🇬 狮城自动
+    type: url-test
+    url: https://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - Singapore | 01
+      - Singapore | 02
+      - Singapore | 03
+      - Singapore | 04
+      - Singapore | 05
+      - Singapore | 06
+      - Singapore | 07
+      - Singapore | 08
+  - name: 🇺🇸 美国自动
+    type: url-test
+    url: https://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 80
+    proxies:
+      - United States | 01
+      - United States | 02
+      - United States | 03
+      - United States | 04
+      - United States | 05
+      - United States | 06
+      - United States | 07
+      - United States | 08
+  - name: 🇯🇵 日本自动
+    type: url-test
+    url: https://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - Japan | 01
+      - Japan | 02
+      - Japan | 03
+      - Japan | 04
+      - Japan | 05
+      - Japan | 06
+      - Japan | 07
+      - Japan | 08
+  - name: 🇪🇺 欧洲自动
+    type: url-test
+    url: https://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - United Kingdom | 01
+      - United Kingdom | 02
+      - Germany | 01
+      - Germany | 02
+      - Netherlands | 01
+      - Netherlands | 02
+      - Italy | 01
+      - Spain | 01
+  - name: 💬 AI专用
+    type: select
+    proxies:
+      - 🇸🇬 狮城自动
+      - 🇯🇵 日本自动
+      - 🇺🇸 美国自动
+      - 🇨🇳 台湾自动
+      - 🇪🇺 欧洲自动
+      - Taiwan | 01
+      - Taiwan | 02
+      - Taiwan | 03
+      - Taiwan | 04
+      - Taiwan | 05
+      - Taiwan | 06
+      - Taiwan | 07
+      - Taiwan | 08
+      - Singapore | 01
+      - Singapore | 02
+      - Singapore | 03
+      - Singapore | 04
+      - Singapore | 05
+      - Singapore | 06
+      - Singapore | 07
+      - Singapore | 08
+      - Japan | 01
+      - Japan | 02
+      - Japan | 03
+      - Japan | 04
+      - Japan | 05
+      - Japan | 06
+      - Japan | 07
+      - Japan | 08
+      - United States | 01
+      - United States | 02
+      - United States | 03
+      - United States | 04
+      - United States | 05
+      - United States | 06
+      - United States | 07
+      - United States | 08
+      - Canada | 01
+      - United Kingdom | 01
+      - United Kingdom | 02
+      - Germany | 01
+      - Germany | 02
+      - Netherlands | 01
+      - Netherlands | 02
+      - Italy | 01
+      - Spain | 01
+      - Turkey | 01
+      - Australia | 01
+      - Argentina | 01
+      - Brazil | 01
+      - Chile | 01
+      - Korea | 01
+      - India | 01
+      - Israel | 01
+      - Thailand | 01
+      - Vietnam | 01
+      - Malaysia | 01
+      - Johannesburg | 01
+  - name: 📲 Telegram
+    type: select
+    proxies:
+      - ✈️ 节点选择
+      - 🇸🇬 狮城自动
+      - 🇺🇸 美国自动
+      - 🇭🇰 香港自动
+      - 🇨🇳 台湾自动
+      - 🇯🇵 日本自动
+      - Hong Kong | 01
+      - Hong Kong | 02
+      - Hong Kong | 03
+      - Hong Kong | 04
+      - Hong Kong | 05
+      - Hong Kong | 06
+      - Hong Kong | 07
+      - Hong Kong | 08
+      - Taiwan | 01
+      - Taiwan | 02
+      - Taiwan | 03
+      - Taiwan | 04
+      - Taiwan | 05
+      - Taiwan | 06
+      - Taiwan | 07
+      - Taiwan | 08
+      - Singapore | 01
+      - Singapore | 02
+      - Singapore | 03
+      - Singapore | 04
+      - Singapore | 05
+      - Singapore | 06
+      - Singapore | 07
+      - Singapore | 08
+      - Japan | 01
+      - Japan | 02
+      - Japan | 03
+      - Japan | 04
+      - Japan | 05
+      - Japan | 06
+      - Japan | 07
+      - Japan | 08
+      - United States | 01
+      - United States | 02
+      - United States | 03
+      - United States | 04
+      - United States | 05
+      - United States | 06
+      - United States | 07
+      - United States | 08
+      - Canada | 01
+      - United Kingdom | 01
+      - United Kingdom | 02
+      - Germany | 01
+      - Germany | 02
+      - Netherlands | 01
+      - Netherlands | 02
+      - Italy | 01
+      - Spain | 01
+      - Turkey | 01
+      - Australia | 01
+      - Argentina | 01
+      - Brazil | 01
+      - Chile | 01
+      - Korea | 01
+      - India | 01
+      - Israel | 01
+      - Thailand | 01
+      - Vietnam | 01
+      - Malaysia | 01
+      - Johannesburg | 01
+      - DIRECT
+  - name: 🔗 无需代理
+    type: select
+    proxies:
+      - DIRECT
+      - ✈️ 节点选择
+  - name: 🛡️ 广告拦截
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+      - ✈️ 节点选择
+  - name: 💠 容错规则
+    type: select
+    proxies:
+      - ✈️ 节点选择
+      - 🔗 无需代理
+rule-providers:
+  reject:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt"
+    path: ./ruleset/reject.yaml
+    interval: 86400
+
+  icloud:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/icloud.txt"
+    path: ./ruleset/icloud.yaml
+    interval: 86400
+
+  apple:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/apple.txt"
+    path: ./ruleset/apple.yaml
+    interval: 86400
+
+  google:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/google.txt"
+    path: ./ruleset/google.yaml
+    interval: 86400
+
+  proxy:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/proxy.txt"
+    path: ./ruleset/proxy.yaml
+    interval: 86400
+
+  direct:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/direct.txt"
+    path: ./ruleset/direct.yaml
+    interval: 86400
+
+  private:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/private.txt"
+    path: ./ruleset/private.yaml
+    interval: 86400
+
+  gfw:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/gfw.txt"
+    path: ./ruleset/gfw.yaml
+    interval: 86400
+
+  tld-not-cn:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/tld-not-cn.txt"
+    path: ./ruleset/tld-not-cn.yaml
+    interval: 86400
+
+  telegramcidr:
+    type: http
+    behavior: ipcidr
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/telegramcidr.txt"
+    path: ./ruleset/telegramcidr.yaml
+    interval: 86400
+
+  cncidr:
+    type: http
+    behavior: ipcidr
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/cncidr.txt"
+    path: ./ruleset/cncidr.yaml
+    interval: 86400
+
+  lancidr:
+    type: http
+    behavior: ipcidr
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/lancidr.txt"
+    path: ./ruleset/lancidr.yaml
+    interval: 86400
+
+  applications:
+    type: http
+    behavior: classical
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/applications.txt"
+    path: ./ruleset/applications.yaml
+    interval: 86400
+
+  # 以下是zidou的配置
+  zidou_direct_applications:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/zidou-kiyn/clash-rules/main/rules/zidou_direct_applications.txt"
+    path: ./ruleset/zidou_direct_applications.yaml
+    interval: 86400
+
+  zidou_direct_game:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/zidou-kiyn/clash-rules/main/rules/zidou_direct_game.txt"
+    path: ./ruleset/zidou_direct_game.yaml
+    interval: 86400
+
+  zidou_direct:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/zidou-kiyn/clash-rules/main/rules/zidou_direct.txt"
+    path: ./ruleset/zidou_direct.yaml
+    interval: 86400
+rules:
+  - RULE-SET,zidou_direct_applications,🔗 无需代理
+  - RULE-SET,zidou_direct_game,🔗 无需代理
+  - RULE-SET,zidou_direct,🔗 无需代理
+  - RULE-SET,applications,🔗 无需代理
+  - DOMAIN,clash.razord.top,🔗 无需代理
+  - DOMAIN,yacd.haishan.me,🔗 无需代理
+  - RULE-SET,private,🔗 无需代理
+  - RULE-SET,reject,🛡️ 广告拦截
+  - RULE-SET,icloud,🔗 无需代理
+  - RULE-SET,apple,🔗 无需代理
+  - RULE-SET,google,✈️ 节点选择
+  - RULE-SET,proxy,✈️ 节点选择
+  - RULE-SET,direct,🔗 无需代理
+  - RULE-SET,lancidr,🔗 无需代理
+  - RULE-SET,cncidr,🔗 无需代理
+  - RULE-SET,telegramcidr,✈️ 节点选择
+  - GEOIP,LAN,🔗 无需代理,no-resolve
+  - GEOIP,CN,🔗 无需代理,no-resolve
+  - MATCH,✈️ 节点选择
