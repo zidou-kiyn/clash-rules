@@ -1,9 +1,0 @@
-payload:
-  - '+.steamcontent.com'
-  - '+.steamstatic.com'
-  - '+.steamserver.net'
-  - '+.test.steampowered.com'
-  - '+.api.steampowered.com'
-  - '+.rmbgame.net'
-
-  

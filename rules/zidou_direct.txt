@@ -1,4 +1,0 @@
-payload:
-  - '+.animoe.org'
-  - '+.sms-activate.io'
-  - 'smsactivate.s3.eu-central-1.amazonaws.com'
