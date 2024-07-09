@@ -3,3 +3,4 @@ payload:
   - PROCESS-NAME,TslGame.exe
   - PROCESS-NAME,op
   - PROCESS-NAME,op.exe
+  - PROCESS-NAME,EpicWebHelper.exe
