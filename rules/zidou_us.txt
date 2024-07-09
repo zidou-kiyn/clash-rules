@@ -1,0 +1,4 @@
+payload:
+  - '+.linux.do'
+  - '+.new.oaifree.com'
+  - '+.new.tarozero.top'
