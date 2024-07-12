@@ -6,7 +6,6 @@ payload:
   - 'smsactivate.s3.eu-central-1.amazonaws.com'
   # steam
   - '+.steamcontent.com'
-  - '+.steamstatic.com'
   - '+.steamserver.net'
   - '+.test.steampowered.com'
   - '+.api.steampowered.com'
