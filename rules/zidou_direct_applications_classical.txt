@@ -3,3 +3,4 @@ payload:
   - PROCESS-NAME,BEService.exe
   - PROCESS-NAME,op.exe
   - PROCESS-NAME,EpicWebHelper.exe
+  - PROCESS-NAME,Kook.exe
