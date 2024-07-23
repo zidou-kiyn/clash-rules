@@ -497,9 +497,6 @@ proxy-groups:
       - 🇭🇰 香港家宽 01丨1x HK
       - 🇭🇰 香港家宽 02丨1x HK
       - 🇭🇰 香港家宽 03丨1x HK
-      - 🇭🇰 香港家宽 04丨3x HK
-      - 🇭🇰 香港家宽 05丨3x HK
-      - 🇭🇰 香港游戏丨2x HK
   - name: 🇨🇳 台湾自动
     type: url-test
     url: https://www.gstatic.com/generate_204
@@ -509,9 +506,6 @@ proxy-groups:
       - 🇹🇼 台湾 01丨1x TW
       - 🇹🇼 台湾 02丨1x TW
       - 🇹🇼 台湾 03丨1x TW
-      - 🇹🇼 台湾家宽 01丨3x TW
-      - 🇹🇼 台湾家宽 02丨3x TW
-      - 🇹🇼 台湾家宽 03丨3x TW
   - name: 🇸🇬 狮城自动
     type: url-test
     url: https://www.gstatic.com/generate_204
@@ -521,10 +515,6 @@ proxy-groups:
       - 🇸🇬 新加坡 01丨1x SG
       - 🇸🇬 新加坡 02丨1x SG
       - 🇸🇬 新加坡 03丨1x SG
-      - 🇸🇬 新加坡家宽 01丨3x SG
-      - 🇸🇬 新加坡家宽 02丨3x SG
-      - 🇸🇬 新加坡家宽 03丨3x SG
-      - 🇸🇬 新加坡家宽 04丨3x SG
   - name: 🇺🇸 美国自动
     type: url-test
     url: https://www.gstatic.com/generate_204
@@ -537,19 +527,11 @@ proxy-groups:
       - 🇺🇸 美国-洛杉矶 01丨1x US
       - 🇺🇸 美国-洛杉矶 02丨1x US
       - 🇺🇸 美国-洛杉矶 03丨1x US
-      - 🇺🇸 美国-圣何塞丨3x US
       - 🇺🇸 美国-迈阿密丨1x US
       - 🇺🇸 美国-西雅图丨1x US
-      - 🇺🇸 美国-夏威夷丨3x US
-      - 🇺🇸 美国-圣迭戈丨2x US
       - 🇺🇸 美国-堪萨斯丨1x US
       - 🇺🇸 美国-芝加哥丨1x US
       - 🇺🇸 美国-夏洛特丨1x US
-      - 🇺🇸 美国-家宽 01丨3x US
-      - 🇺🇸 美国-家宽 02丨5x US
-      - 🇺🇸 美国-家宽 03丨5x US
-      - 🇺🇸 美国-家宽 04丨5x US
-      - 🇺🇸 美国-星链卫星网络丨20x US
   - name: 🇯🇵 日本自动
     type: url-test
     url: https://www.gstatic.com/generate_204
@@ -559,12 +541,6 @@ proxy-groups:
       - 🇯🇵 日本 01丨1x JP
       - 🇯🇵 日本 02丨1x JP
       - 🇯🇵 日本 03丨1x JP
-      - 🇯🇵 日本家宽 01丨3x JP
-      - 🇯🇵 日本家宽 02丨3x JP
-      - 🇯🇵 日本家宽 03丨3x JP
-      - 🇯🇵 日本家宽 04丨3x JP
-      - 🇯🇵 日本家宽 05丨3x JP
-      - 🇯🇵 日本游戏丨2x JP
   - name: 🇪🇺 欧洲自动
     type: url-test
     url: https://www.gstatic.com/generate_204
@@ -572,60 +548,29 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 🇫🇷 法国丨1x FR
-      - 🇫🇷 法国家宽丨5x FR
       - 🇬🇧 英国丨1x GB
-      - 🇬🇧 英国家宽 01丨5x GB
-      - 🇬🇧 英国家宽 02丨5x GB
-      - 🇬🇧 英国家宽 03丨3x GB
-      - 🇮🇲 马恩岛丨2x IM
       - 🇩🇪 德国丨1x DE
-      - 🇩🇪 德国家宽丨5x DE
       - 🇩🇰 丹麦丨1x DK
       - 🇳🇴 挪威丨1x NO
       - 🇸🇪 瑞典丨1x SE
-      - 🇫🇮 芬兰丨2x FI
-      - 🇮🇸 冰岛丨2x IS
-      - 🇨🇭 瑞士丨2x CH
       - 🇨🇿 捷克丨1x CZ
-      - 🇬🇷 希腊丨2x GR
       - 🇳🇱 荷兰丨1x NL
       - 🇵🇱 波兰丨1x PL
-      - 🇲🇪 黑山丨3x ME
       - 🇷🇺 俄罗斯丨1x RU
-      - 🇺🇦 乌克兰丨2x UA
       - 🇭🇺 匈牙利丨1x HU
-      - 🇱🇺 卢森堡丨2x LU
-      - 🇦🇹 奥地利丨2x AT
       - 🇮🇹 意大利丨1x IT
-      - 🇮🇹 意大利家宽丨5x IT
-      - 🇻🇦 梵蒂冈丨3x VA
       - 🇧🇪 比利时丨1x BE
-      - 🇮🇪 爱尔兰丨2x IE
       - 🇱🇹 立陶宛丨1x LT
       - 🇪🇸 西班牙丨1x ES
       - 🇵🇹 葡萄牙丨1x PT
-      - 🇦🇩 安道尔丨3x AD
-      - 🇲🇹 马耳他丨3x MT
-      - 🇲🇨 摩纳哥丨3x MC
       - 🇧🇬 保加利亚丨1x BG
-      - 🇭🇷 克罗地亚丨2x HR
-      - 🇲🇰 北马其顿丨2x MK
-      - 🇷🇸 塞尔维亚丨2x RS
       - 🇨🇾 塞浦路斯丨1x CY
       - 🇱🇻 拉脱维亚丨1x LV
-      - 🇲🇩 摩尔多瓦丨2x MD
       - 🇸🇰 斯洛伐克丨1x SK
       - 🇪🇪 爱沙尼亚丨1x EE
-      - 🇧🇾 白俄罗斯丨3x BY
       - 🇷🇴 罗马尼亚丨1x RO
-      - 🇬🇮 直布罗陀丨3x GI
-      - 🇸🇲 圣马力诺丨3x SM
-      - 🇫🇴 法罗群岛丨3x FO
-      - 🇦🇽 奥兰群岛丨3x AX
-      - 🇸🇮 斯洛文尼亚丨2x SI
       - 🇦🇱 阿尔巴尼亚丨1x AL
-      - 🇧🇦 波黑共和国丨2x BA
-      - 🇱🇮 列支敦士登丨3x LI
+
   - name: 💬 AI专用
     type: select
     proxies:
