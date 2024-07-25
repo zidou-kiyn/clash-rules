@@ -6,19 +6,18 @@ mode: rule
 log-level: info
 external-controller: :9090
 proxies:
-	# 自己添加
 
 proxy-groups:
   - name: ✈️ 节点选择
     type: select
     proxies:
       - 🌿 自动选择
-      - 🇭🇰 香港自动
-      - 🇨🇳 台湾自动
-      - 🇸🇬 狮城自动
-      - 🇺🇸 美国自动
-      - 🇯🇵 日本自动
-      - 🇪🇺 欧洲自动
+      - 🇭🇰 香港选择
+      - 🇨🇳 台湾选择
+      - 🇸🇬 狮城选择
+      - 🇺🇸 美国选择
+      - 🇯🇵 日本选择
+      - 🇪🇺 欧洲选择
       - 🇭🇰 Hong Kong | 01
       - 🇭🇰 Hong Kong | 02
       - 🇭🇰 Hong Kong | 03
@@ -83,9 +82,6 @@ proxy-groups:
       - DIRECT
   - name: 🇭🇰 香港选择
     type: select
-    url: https://www.gstatic.com/generate_204
-    interval: 300
-    tolerance: 50
     proxies:
       - 🌿 自动选择
       - 🇭🇰 香港自动
@@ -156,11 +152,9 @@ proxy-groups:
       - 🇲🇾 Malaysia | 01
       - 🇿🇦 Johannesburg | 01
       - DIRECT
+
   - name: 🇨🇳 台湾选择
     type: select
-    url: https://www.gstatic.com/generate_204
-    interval: 300
-    tolerance: 50
     proxies:
       - 🌿 自动选择
       - 🇭🇰 香港自动
@@ -233,9 +227,6 @@ proxy-groups:
       - DIRECT
   - name: 🇸🇬 狮城选择
     type: select
-    url: https://www.gstatic.com/generate_204
-    interval: 300
-    tolerance: 50
     proxies:
       - 🌿 自动选择
       - 🇭🇰 香港自动
@@ -308,9 +299,6 @@ proxy-groups:
       - DIRECT
   - name: 🇺🇸 美国选择
     type: select
-    url: https://www.gstatic.com/generate_204
-    interval: 300
-    tolerance: 80
     proxies:
       - 🌿 自动选择
       - 🇭🇰 香港自动
@@ -383,9 +371,6 @@ proxy-groups:
       - DIRECT
   - name: 🇯🇵 日本选择
     type: select
-    url: https://www.gstatic.com/generate_204
-    interval: 300
-    tolerance: 50
     proxies:
       - 🌿 自动选择
       - 🇭🇰 香港自动
@@ -458,9 +443,6 @@ proxy-groups:
       - DIRECT
   - name: 🇪🇺 欧洲选择
     type: select
-    url: https://www.gstatic.com/generate_204
-    interval: 300
-    tolerance: 50
     proxies:
       - 🌿 自动选择
       - 🇭🇰 香港自动

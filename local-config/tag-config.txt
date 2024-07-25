@@ -6,7 +6,6 @@ mode: rule
 log-level: info
 external-controller: :9090
 proxies:
-	# 自己添加
 
 proxy-groups:
   - name: ✈️ 节点选择
@@ -252,9 +251,6 @@ proxy-groups:
       - DIRECT
   - name: 🇭🇰 香港选择
     type: select
-    url: https://www.gstatic.com/generate_204
-    interval: 300
-    tolerance: 50
     proxies:
       - 🌿 自动选择
       - 🇭🇰 香港自动
@@ -496,9 +492,6 @@ proxy-groups:
       - DIRECT
   - name: 🇨🇳 台湾选择
     type: select
-    url: https://www.gstatic.com/generate_204
-    interval: 300
-    tolerance: 50
     proxies:
       - 🌿 自动选择
       - 🇭🇰 香港自动
@@ -740,9 +733,6 @@ proxy-groups:
       - DIRECT
   - name: 🇸🇬 狮城选择
     type: select
-    url: https://www.gstatic.com/generate_204
-    interval: 300
-    tolerance: 50
     proxies:
       - 🌿 自动选择
       - 🇭🇰 香港自动
@@ -984,9 +974,6 @@ proxy-groups:
       - DIRECT
   - name: 🇺🇸 美国选择
     type: select
-    url: https://www.gstatic.com/generate_204
-    interval: 300
-    tolerance: 80
     proxies:
       - 🌿 自动选择
       - 🇭🇰 香港自动
@@ -1228,9 +1215,6 @@ proxy-groups:
       - DIRECT
   - name: 🇯🇵 日本选择
     type: select
-    url: https://www.gstatic.com/generate_204
-    interval: 300
-    tolerance: 50
     proxies:
       - 🌿 自动选择
       - 🇭🇰 香港自动
@@ -1472,9 +1456,6 @@ proxy-groups:
       - DIRECT
   - name: 🇪🇺 欧洲选择
     type: select
-    url: https://www.gstatic.com/generate_204
-    interval: 300
-    tolerance: 50
     proxies:
       - 🌿 自动选择
       - 🇭🇰 香港自动

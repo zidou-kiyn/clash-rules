@@ -6,7 +6,7 @@ mode: rule
 log-level: info
 external-controller: :9090
 proxies:
-	# 自己添加
+
 
 proxy-groups:
   - name: ✈️ 节点选择
