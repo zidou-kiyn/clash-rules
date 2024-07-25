@@ -81,6 +81,472 @@ proxy-groups:
       - 🇲🇾 Malaysia | 01
       - 🇿🇦 Johannesburg | 01
       - DIRECT
+  - name: 🇭🇰 香港选择
+    type: select
+    url: https://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - 🌿 自动选择
+      - 🇭🇰 香港自动
+      - 🇨🇳 台湾自动
+      - 🇸🇬 狮城自动
+      - 🇺🇸 美国自动
+      - 🇯🇵 日本自动
+      - 🇪🇺 欧洲自动
+      - 🇭🇰 Hong Kong | 01
+      - 🇭🇰 Hong Kong | 02
+      - 🇭🇰 Hong Kong | 03
+      - 🇭🇰 Hong Kong | 04
+      - 🇭🇰 Hong Kong | 05
+      - 🇭🇰 Hong Kong | 06
+      - 🇭🇰 Hong Kong | 07
+      - 🇭🇰 Hong Kong | 08
+      - 🇨🇳 Taiwan | 01
+      - 🇨🇳 Taiwan | 02
+      - 🇨🇳 Taiwan | 03
+      - 🇨🇳 Taiwan | 04
+      - 🇨🇳 Taiwan | 05
+      - 🇨🇳 Taiwan | 06
+      - 🇨🇳 Taiwan | 07
+      - 🇨🇳 Taiwan | 08
+      - 🇸🇬 Singapore | 01
+      - 🇸🇬 Singapore | 02
+      - 🇸🇬 Singapore | 03
+      - 🇸🇬 Singapore | 04
+      - 🇸🇬 Singapore | 05
+      - 🇸🇬 Singapore | 06
+      - 🇸🇬 Singapore | 07
+      - 🇸🇬 Singapore | 08
+      - 🇯🇵 Japan | 01
+      - 🇯🇵 Japan | 02
+      - 🇯🇵 Japan | 03
+      - 🇯🇵 Japan | 04
+      - 🇯🇵 Japan | 05
+      - 🇯🇵 Japan | 06
+      - 🇯🇵 Japan | 07
+      - 🇯🇵 Japan | 08
+      - 🇺🇸 United States | 01
+      - 🇺🇸 United States | 02
+      - 🇺🇸 United States | 03
+      - 🇺🇸 United States | 04
+      - 🇺🇸 United States | 05
+      - 🇺🇸 United States | 06
+      - 🇺🇸 United States | 07
+      - 🇺🇸 United States | 08
+      - 🇨🇦 Canada | 01
+      - 🇬🇧 United Kingdom | 01
+      - 🇬🇧 United Kingdom | 02
+      - 🇩🇪 Germany | 01
+      - 🇩🇪 Germany | 02
+      - 🇳🇱 Netherlands | 01
+      - 🇳🇱 Netherlands | 02
+      - 🇮🇹 Italy | 01
+      - 🇪🇸 Spain | 01
+      - 🇹🇷 Turkey | 01
+      - 🇦🇺 Australia | 01
+      - 🇦🇷 Argentina | 01
+      - 🇧🇷 Brazil | 01
+      - 🇨🇱 Chile | 01
+      - 🇰🇷 Korea | 01
+      - 🇮🇳 India | 01
+      - 🇮🇱 Israel | 01
+      - 🇹🇭 Thailand | 01
+      - 🇻🇳 Vietnam | 01
+      - 🇲🇾 Malaysia | 01
+      - 🇿🇦 Johannesburg | 01
+      - DIRECT
+  - name: 🇨🇳 台湾选择
+    type: select
+    url: https://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - 🌿 自动选择
+      - 🇭🇰 香港自动
+      - 🇨🇳 台湾自动
+      - 🇸🇬 狮城自动
+      - 🇺🇸 美国自动
+      - 🇯🇵 日本自动
+      - 🇪🇺 欧洲自动
+      - 🇨🇳 Taiwan | 01
+      - 🇨🇳 Taiwan | 02
+      - 🇨🇳 Taiwan | 03
+      - 🇨🇳 Taiwan | 04
+      - 🇨🇳 Taiwan | 05
+      - 🇨🇳 Taiwan | 06
+      - 🇨🇳 Taiwan | 07
+      - 🇨🇳 Taiwan | 08
+      - 🇭🇰 Hong Kong | 01
+      - 🇭🇰 Hong Kong | 02
+      - 🇭🇰 Hong Kong | 03
+      - 🇭🇰 Hong Kong | 04
+      - 🇭🇰 Hong Kong | 05
+      - 🇭🇰 Hong Kong | 06
+      - 🇭🇰 Hong Kong | 07
+      - 🇭🇰 Hong Kong | 08
+      - 🇸🇬 Singapore | 01
+      - 🇸🇬 Singapore | 02
+      - 🇸🇬 Singapore | 03
+      - 🇸🇬 Singapore | 04
+      - 🇸🇬 Singapore | 05
+      - 🇸🇬 Singapore | 06
+      - 🇸🇬 Singapore | 07
+      - 🇸🇬 Singapore | 08
+      - 🇯🇵 Japan | 01
+      - 🇯🇵 Japan | 02
+      - 🇯🇵 Japan | 03
+      - 🇯🇵 Japan | 04
+      - 🇯🇵 Japan | 05
+      - 🇯🇵 Japan | 06
+      - 🇯🇵 Japan | 07
+      - 🇯🇵 Japan | 08
+      - 🇺🇸 United States | 01
+      - 🇺🇸 United States | 02
+      - 🇺🇸 United States | 03
+      - 🇺🇸 United States | 04
+      - 🇺🇸 United States | 05
+      - 🇺🇸 United States | 06
+      - 🇺🇸 United States | 07
+      - 🇺🇸 United States | 08
+      - 🇨🇦 Canada | 01
+      - 🇬🇧 United Kingdom | 01
+      - 🇬🇧 United Kingdom | 02
+      - 🇩🇪 Germany | 01
+      - 🇩🇪 Germany | 02
+      - 🇳🇱 Netherlands | 01
+      - 🇳🇱 Netherlands | 02
+      - 🇮🇹 Italy | 01
+      - 🇪🇸 Spain | 01
+      - 🇹🇷 Turkey | 01
+      - 🇦🇺 Australia | 01
+      - 🇦🇷 Argentina | 01
+      - 🇧🇷 Brazil | 01
+      - 🇨🇱 Chile | 01
+      - 🇰🇷 Korea | 01
+      - 🇮🇳 India | 01
+      - 🇮🇱 Israel | 01
+      - 🇹🇭 Thailand | 01
+      - 🇻🇳 Vietnam | 01
+      - 🇲🇾 Malaysia | 01
+      - 🇿🇦 Johannesburg | 01
+      - DIRECT
+  - name: 🇸🇬 狮城选择
+    type: select
+    url: https://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - 🌿 自动选择
+      - 🇭🇰 香港自动
+      - 🇨🇳 台湾自动
+      - 🇸🇬 狮城自动
+      - 🇺🇸 美国自动
+      - 🇯🇵 日本自动
+      - 🇪🇺 欧洲自动
+      - 🇸🇬 Singapore | 01
+      - 🇸🇬 Singapore | 02
+      - 🇸🇬 Singapore | 03
+      - 🇸🇬 Singapore | 04
+      - 🇸🇬 Singapore | 05
+      - 🇸🇬 Singapore | 06
+      - 🇸🇬 Singapore | 07
+      - 🇸🇬 Singapore | 08
+      - 🇭🇰 Hong Kong | 01
+      - 🇭🇰 Hong Kong | 02
+      - 🇭🇰 Hong Kong | 03
+      - 🇭🇰 Hong Kong | 04
+      - 🇭🇰 Hong Kong | 05
+      - 🇭🇰 Hong Kong | 06
+      - 🇭🇰 Hong Kong | 07
+      - 🇭🇰 Hong Kong | 08
+      - 🇨🇳 Taiwan | 01
+      - 🇨🇳 Taiwan | 02
+      - 🇨🇳 Taiwan | 03
+      - 🇨🇳 Taiwan | 04
+      - 🇨🇳 Taiwan | 05
+      - 🇨🇳 Taiwan | 06
+      - 🇨🇳 Taiwan | 07
+      - 🇨🇳 Taiwan | 08
+      - 🇯🇵 Japan | 01
+      - 🇯🇵 Japan | 02
+      - 🇯🇵 Japan | 03
+      - 🇯🇵 Japan | 04
+      - 🇯🇵 Japan | 05
+      - 🇯🇵 Japan | 06
+      - 🇯🇵 Japan | 07
+      - 🇯🇵 Japan | 08
+      - 🇺🇸 United States | 01
+      - 🇺🇸 United States | 02
+      - 🇺🇸 United States | 03
+      - 🇺🇸 United States | 04
+      - 🇺🇸 United States | 05
+      - 🇺🇸 United States | 06
+      - 🇺🇸 United States | 07
+      - 🇺🇸 United States | 08
+      - 🇨🇦 Canada | 01
+      - 🇬🇧 United Kingdom | 01
+      - 🇬🇧 United Kingdom | 02
+      - 🇩🇪 Germany | 01
+      - 🇩🇪 Germany | 02
+      - 🇳🇱 Netherlands | 01
+      - 🇳🇱 Netherlands | 02
+      - 🇮🇹 Italy | 01
+      - 🇪🇸 Spain | 01
+      - 🇹🇷 Turkey | 01
+      - 🇦🇺 Australia | 01
+      - 🇦🇷 Argentina | 01
+      - 🇧🇷 Brazil | 01
+      - 🇨🇱 Chile | 01
+      - 🇰🇷 Korea | 01
+      - 🇮🇳 India | 01
+      - 🇮🇱 Israel | 01
+      - 🇹🇭 Thailand | 01
+      - 🇻🇳 Vietnam | 01
+      - 🇲🇾 Malaysia | 01
+      - 🇿🇦 Johannesburg | 01
+      - DIRECT
+  - name: 🇺🇸 美国选择
+    type: select
+    url: https://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 80
+    proxies:
+      - 🌿 自动选择
+      - 🇭🇰 香港自动
+      - 🇨🇳 台湾自动
+      - 🇸🇬 狮城自动
+      - 🇺🇸 美国自动
+      - 🇯🇵 日本自动
+      - 🇪🇺 欧洲自动
+      - 🇺🇸 United States | 01
+      - 🇺🇸 United States | 02
+      - 🇺🇸 United States | 03
+      - 🇺🇸 United States | 04
+      - 🇺🇸 United States | 05
+      - 🇺🇸 United States | 06
+      - 🇺🇸 United States | 07
+      - 🇺🇸 United States | 08
+      - 🇭🇰 Hong Kong | 01
+      - 🇭🇰 Hong Kong | 02
+      - 🇭🇰 Hong Kong | 03
+      - 🇭🇰 Hong Kong | 04
+      - 🇭🇰 Hong Kong | 05
+      - 🇭🇰 Hong Kong | 06
+      - 🇭🇰 Hong Kong | 07
+      - 🇭🇰 Hong Kong | 08
+      - 🇨🇳 Taiwan | 01
+      - 🇨🇳 Taiwan | 02
+      - 🇨🇳 Taiwan | 03
+      - 🇨🇳 Taiwan | 04
+      - 🇨🇳 Taiwan | 05
+      - 🇨🇳 Taiwan | 06
+      - 🇨🇳 Taiwan | 07
+      - 🇨🇳 Taiwan | 08
+      - 🇸🇬 Singapore | 01
+      - 🇸🇬 Singapore | 02
+      - 🇸🇬 Singapore | 03
+      - 🇸🇬 Singapore | 04
+      - 🇸🇬 Singapore | 05
+      - 🇸🇬 Singapore | 06
+      - 🇸🇬 Singapore | 07
+      - 🇸🇬 Singapore | 08
+      - 🇯🇵 Japan | 01
+      - 🇯🇵 Japan | 02
+      - 🇯🇵 Japan | 03
+      - 🇯🇵 Japan | 04
+      - 🇯🇵 Japan | 05
+      - 🇯🇵 Japan | 06
+      - 🇯🇵 Japan | 07
+      - 🇯🇵 Japan | 08
+      - 🇨🇦 Canada | 01
+      - 🇬🇧 United Kingdom | 01
+      - 🇬🇧 United Kingdom | 02
+      - 🇩🇪 Germany | 01
+      - 🇩🇪 Germany | 02
+      - 🇳🇱 Netherlands | 01
+      - 🇳🇱 Netherlands | 02
+      - 🇮🇹 Italy | 01
+      - 🇪🇸 Spain | 01
+      - 🇹🇷 Turkey | 01
+      - 🇦🇺 Australia | 01
+      - 🇦🇷 Argentina | 01
+      - 🇧🇷 Brazil | 01
+      - 🇨🇱 Chile | 01
+      - 🇰🇷 Korea | 01
+      - 🇮🇳 India | 01
+      - 🇮🇱 Israel | 01
+      - 🇹🇭 Thailand | 01
+      - 🇻🇳 Vietnam | 01
+      - 🇲🇾 Malaysia | 01
+      - 🇿🇦 Johannesburg | 01
+      - DIRECT
+  - name: 🇯🇵 日本选择
+    type: select
+    url: https://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - 🌿 自动选择
+      - 🇭🇰 香港自动
+      - 🇨🇳 台湾自动
+      - 🇸🇬 狮城自动
+      - 🇺🇸 美国自动
+      - 🇯🇵 日本自动
+      - 🇪🇺 欧洲自动
+      - 🇯🇵 Japan | 01
+      - 🇯🇵 Japan | 02
+      - 🇯🇵 Japan | 03
+      - 🇯🇵 Japan | 04
+      - 🇯🇵 Japan | 05
+      - 🇯🇵 Japan | 06
+      - 🇯🇵 Japan | 07
+      - 🇯🇵 Japan | 08
+      - 🇭🇰 Hong Kong | 01
+      - 🇭🇰 Hong Kong | 02
+      - 🇭🇰 Hong Kong | 03
+      - 🇭🇰 Hong Kong | 04
+      - 🇭🇰 Hong Kong | 05
+      - 🇭🇰 Hong Kong | 06
+      - 🇭🇰 Hong Kong | 07
+      - 🇭🇰 Hong Kong | 08
+      - 🇨🇳 Taiwan | 01
+      - 🇨🇳 Taiwan | 02
+      - 🇨🇳 Taiwan | 03
+      - 🇨🇳 Taiwan | 04
+      - 🇨🇳 Taiwan | 05
+      - 🇨🇳 Taiwan | 06
+      - 🇨🇳 Taiwan | 07
+      - 🇨🇳 Taiwan | 08
+      - 🇸🇬 Singapore | 01
+      - 🇸🇬 Singapore | 02
+      - 🇸🇬 Singapore | 03
+      - 🇸🇬 Singapore | 04
+      - 🇸🇬 Singapore | 05
+      - 🇸🇬 Singapore | 06
+      - 🇸🇬 Singapore | 07
+      - 🇸🇬 Singapore | 08
+      - 🇺🇸 United States | 01
+      - 🇺🇸 United States | 02
+      - 🇺🇸 United States | 03
+      - 🇺🇸 United States | 04
+      - 🇺🇸 United States | 05
+      - 🇺🇸 United States | 06
+      - 🇺🇸 United States | 07
+      - 🇺🇸 United States | 08
+      - 🇨🇦 Canada | 01
+      - 🇬🇧 United Kingdom | 01
+      - 🇬🇧 United Kingdom | 02
+      - 🇩🇪 Germany | 01
+      - 🇩🇪 Germany | 02
+      - 🇳🇱 Netherlands | 01
+      - 🇳🇱 Netherlands | 02
+      - 🇮🇹 Italy | 01
+      - 🇪🇸 Spain | 01
+      - 🇹🇷 Turkey | 01
+      - 🇦🇺 Australia | 01
+      - 🇦🇷 Argentina | 01
+      - 🇧🇷 Brazil | 01
+      - 🇨🇱 Chile | 01
+      - 🇰🇷 Korea | 01
+      - 🇮🇳 India | 01
+      - 🇮🇱 Israel | 01
+      - 🇹🇭 Thailand | 01
+      - 🇻🇳 Vietnam | 01
+      - 🇲🇾 Malaysia | 01
+      - 🇿🇦 Johannesburg | 01
+      - DIRECT
+  - name: 🇪🇺 欧洲选择
+    type: select
+    url: https://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - 🌿 自动选择
+      - 🇭🇰 香港自动
+      - 🇨🇳 台湾自动
+      - 🇸🇬 狮城自动
+      - 🇺🇸 美国自动
+      - 🇯🇵 日本自动
+      - 🇪🇺 欧洲自动
+      - 🇬🇧 United Kingdom | 01
+      - 🇬🇧 United Kingdom | 02
+      - 🇩🇪 Germany | 01
+      - 🇩🇪 Germany | 02
+      - 🇳🇱 Netherlands | 01
+      - 🇳🇱 Netherlands | 02
+      - 🇮🇹 Italy | 01
+      - 🇪🇸 Spain | 01
+      - 🇭🇰 Hong Kong | 01
+      - 🇭🇰 Hong Kong | 02
+      - 🇭🇰 Hong Kong | 03
+      - 🇭🇰 Hong Kong | 04
+      - 🇭🇰 Hong Kong | 05
+      - 🇭🇰 Hong Kong | 06
+      - 🇭🇰 Hong Kong | 07
+      - 🇭🇰 Hong Kong | 08
+      - 🇨🇳 Taiwan | 01
+      - 🇨🇳 Taiwan | 02
+      - 🇨🇳 Taiwan | 03
+      - 🇨🇳 Taiwan | 04
+      - 🇨🇳 Taiwan | 05
+      - 🇨🇳 Taiwan | 06
+      - 🇨🇳 Taiwan | 07
+      - 🇨🇳 Taiwan | 08
+      - 🇸🇬 Singapore | 01
+      - 🇸🇬 Singapore | 02
+      - 🇸🇬 Singapore | 03
+      - 🇸🇬 Singapore | 04
+      - 🇸🇬 Singapore | 05
+      - 🇸🇬 Singapore | 06
+      - 🇸🇬 Singapore | 07
+      - 🇸🇬 Singapore | 08
+      - 🇯🇵 Japan | 01
+      - 🇯🇵 Japan | 02
+      - 🇯🇵 Japan | 03
+      - 🇯🇵 Japan | 04
+      - 🇯🇵 Japan | 05
+      - 🇯🇵 Japan | 06
+      - 🇯🇵 Japan | 07
+      - 🇯🇵 Japan | 08
+      - 🇺🇸 United States | 01
+      - 🇺🇸 United States | 02
+      - 🇺🇸 United States | 03
+      - 🇺🇸 United States | 04
+      - 🇺🇸 United States | 05
+      - 🇺🇸 United States | 06
+      - 🇺🇸 United States | 07
+      - 🇺🇸 United States | 08
+      - 🇨🇦 Canada | 01
+      - 🇹🇷 Turkey | 01
+      - 🇦🇺 Australia | 01
+      - 🇦🇷 Argentina | 01
+      - 🇧🇷 Brazil | 01
+      - 🇨🇱 Chile | 01
+      - 🇰🇷 Korea | 01
+      - 🇮🇳 India | 01
+      - 🇮🇱 Israel | 01
+      - 🇹🇭 Thailand | 01
+      - 🇻🇳 Vietnam | 01
+      - 🇲🇾 Malaysia | 01
+      - 🇿🇦 Johannesburg | 01
+      - DIRECT
+  - name: 🔗 无需代理
+    type: select
+    proxies:
+      - DIRECT
+      - ✈️ 节点选择
+  - name: 🛡️ 广告拦截
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+      - ✈️ 节点选择
+  - name: 💠 容错规则
+    type: select
+    proxies:
+      - ✈️ 节点选择
+      - 🔗 无需代理
   - name: 🌿 自动选择
     type: url-test
     url: https://www.gstatic.com/generate_204
@@ -232,162 +698,7 @@ proxy-groups:
       - 🇳🇱 Netherlands | 02
       - 🇮🇹 Italy | 01
       - 🇪🇸 Spain | 01
-  - name: 💬 AI专用
-    type: select
-    proxies:
-      - 🇸🇬 狮城自动
-      - 🇯🇵 日本自动
-      - 🇺🇸 美国自动
-      - 🇨🇳 台湾自动
-      - 🇪🇺 欧洲自动
-      - 🇭🇰 Hong Kong | 01
-      - 🇭🇰 Hong Kong | 02
-      - 🇭🇰 Hong Kong | 03
-      - 🇭🇰 Hong Kong | 04
-      - 🇭🇰 Hong Kong | 05
-      - 🇭🇰 Hong Kong | 06
-      - 🇭🇰 Hong Kong | 07
-      - 🇭🇰 Hong Kong | 08
-      - 🇨🇳 Taiwan | 01
-      - 🇨🇳 Taiwan | 02
-      - 🇨🇳 Taiwan | 03
-      - 🇨🇳 Taiwan | 04
-      - 🇨🇳 Taiwan | 05
-      - 🇨🇳 Taiwan | 06
-      - 🇨🇳 Taiwan | 07
-      - 🇨🇳 Taiwan | 08
-      - 🇸🇬 Singapore | 01
-      - 🇸🇬 Singapore | 02
-      - 🇸🇬 Singapore | 03
-      - 🇸🇬 Singapore | 04
-      - 🇸🇬 Singapore | 05
-      - 🇸🇬 Singapore | 06
-      - 🇸🇬 Singapore | 07
-      - 🇸🇬 Singapore | 08
-      - 🇯🇵 Japan | 01
-      - 🇯🇵 Japan | 02
-      - 🇯🇵 Japan | 03
-      - 🇯🇵 Japan | 04
-      - 🇯🇵 Japan | 05
-      - 🇯🇵 Japan | 06
-      - 🇯🇵 Japan | 07
-      - 🇯🇵 Japan | 08
-      - 🇺🇸 United States | 01
-      - 🇺🇸 United States | 02
-      - 🇺🇸 United States | 03
-      - 🇺🇸 United States | 04
-      - 🇺🇸 United States | 05
-      - 🇺🇸 United States | 06
-      - 🇺🇸 United States | 07
-      - 🇺🇸 United States | 08
-      - 🇨🇦 Canada | 01
-      - 🇬🇧 United Kingdom | 01
-      - 🇬🇧 United Kingdom | 02
-      - 🇩🇪 Germany | 01
-      - 🇩🇪 Germany | 02
-      - 🇳🇱 Netherlands | 01
-      - 🇳🇱 Netherlands | 02
-      - 🇮🇹 Italy | 01
-      - 🇪🇸 Spain | 01
-      - 🇹🇷 Turkey | 01
-      - 🇦🇺 Australia | 01
-      - 🇦🇷 Argentina | 01
-      - 🇧🇷 Brazil | 01
-      - 🇨🇱 Chile | 01
-      - 🇰🇷 Korea | 01
-      - 🇮🇳 India | 01
-      - 🇮🇱 Israel | 01
-      - 🇹🇭 Thailand | 01
-      - 🇻🇳 Vietnam | 01
-      - 🇲🇾 Malaysia | 01
-      - 🇿🇦 Johannesburg | 01
-  - name: 📲 Telegram
-    type: select
-    proxies:
-      - ✈️ 节点选择
-      - 🇸🇬 狮城自动
-      - 🇺🇸 美国自动
-      - 🇭🇰 香港自动
-      - 🇨🇳 台湾自动
-      - 🇯🇵 日本自动
-      - 🇭🇰 Hong Kong | 01
-      - 🇭🇰 Hong Kong | 02
-      - 🇭🇰 Hong Kong | 03
-      - 🇭🇰 Hong Kong | 04
-      - 🇭🇰 Hong Kong | 05
-      - 🇭🇰 Hong Kong | 06
-      - 🇭🇰 Hong Kong | 07
-      - 🇭🇰 Hong Kong | 08
-      - 🇨🇳 Taiwan | 01
-      - 🇨🇳 Taiwan | 02
-      - 🇨🇳 Taiwan | 03
-      - 🇨🇳 Taiwan | 04
-      - 🇨🇳 Taiwan | 05
-      - 🇨🇳 Taiwan | 06
-      - 🇨🇳 Taiwan | 07
-      - 🇨🇳 Taiwan | 08
-      - 🇸🇬 Singapore | 01
-      - 🇸🇬 Singapore | 02
-      - 🇸🇬 Singapore | 03
-      - 🇸🇬 Singapore | 04
-      - 🇸🇬 Singapore | 05
-      - 🇸🇬 Singapore | 06
-      - 🇸🇬 Singapore | 07
-      - 🇸🇬 Singapore | 08
-      - 🇯🇵 Japan | 01
-      - 🇯🇵 Japan | 02
-      - 🇯🇵 Japan | 03
-      - 🇯🇵 Japan | 04
-      - 🇯🇵 Japan | 05
-      - 🇯🇵 Japan | 06
-      - 🇯🇵 Japan | 07
-      - 🇯🇵 Japan | 08
-      - 🇺🇸 United States | 01
-      - 🇺🇸 United States | 02
-      - 🇺🇸 United States | 03
-      - 🇺🇸 United States | 04
-      - 🇺🇸 United States | 05
-      - 🇺🇸 United States | 06
-      - 🇺🇸 United States | 07
-      - 🇺🇸 United States | 08
-      - 🇨🇦 Canada | 01
-      - 🇬🇧 United Kingdom | 01
-      - 🇬🇧 United Kingdom | 02
-      - 🇩🇪 Germany | 01
-      - 🇩🇪 Germany | 02
-      - 🇳🇱 Netherlands | 01
-      - 🇳🇱 Netherlands | 02
-      - 🇮🇹 Italy | 01
-      - 🇪🇸 Spain | 01
-      - 🇹🇷 Turkey | 01
-      - 🇦🇺 Australia | 01
-      - 🇦🇷 Argentina | 01
-      - 🇧🇷 Brazil | 01
-      - 🇨🇱 Chile | 01
-      - 🇰🇷 Korea | 01
-      - 🇮🇳 India | 01
-      - 🇮🇱 Israel | 01
-      - 🇹🇭 Thailand | 01
-      - 🇻🇳 Vietnam | 01
-      - 🇲🇾 Malaysia | 01
-      - 🇿🇦 Johannesburg | 01
-      - DIRECT
-  - name: 🔗 无需代理
-    type: select
-    proxies:
-      - DIRECT
-      - ✈️ 节点选择
-  - name: 🛡️ 广告拦截
-    type: select
-    proxies:
-      - REJECT
-      - DIRECT
-      - ✈️ 节点选择
-  - name: 💠 容错规则
-    type: select
-    proxies:
-      - ✈️ 节点选择
-      - 🔗 无需代理
+
 rule-providers:
   reject:
     type: http
@@ -534,11 +845,11 @@ rules:
   # zidou先配置
   - RULE-SET,zidou_direct_applications_classical,🔗 无需代理
   - RULE-SET,zidou_direct_domain,🔗 无需代理
-  - RULE-SET,zidou_ai_classical,💬 AI专用
-  - RULE-SET,zidou_us_domain,🇺🇸 美国自动
-  - RULE-SET,zidou_jp_domain,🇯🇵 日本自动
-  - RULE-SET,zidou_singapore_ipcidr,🇸🇬 狮城自动
-  - RULE-SET,zidou_telegram_classical,📲 Telegram
+  - RULE-SET,zidou_ai_classical,🇸🇬 狮城选择
+  - RULE-SET,zidou_us_domain,🇺🇸 美国选择
+  - RULE-SET,zidou_jp_domain,🇯🇵 日本选择
+  - RULE-SET,zidou_singapore_ipcidr,🇸🇬 狮城选择
+  - RULE-SET,zidou_telegram_classical,✈️ 节点选择
   # 最后是clash规则集
   - RULE-SET,gfw,✈️ 节点选择
   - RULE-SET,applications,🔗 无需代理
@@ -552,7 +863,7 @@ rules:
   - RULE-SET,direct,🔗 无需代理
   - RULE-SET,lancidr,🔗 无需代理
   - RULE-SET,cncidr,🔗 无需代理
-  - RULE-SET,telegramcidr,📲 Telegram
+  - RULE-SET,telegramcidr,✈️ 节点选择
   - GEOIP,LAN,🔗 无需代理,no-resolve
   - GEOIP,CN,🔗 无需代理,no-resolve
   - RULE-SET,proxy,✈️ 节点选择

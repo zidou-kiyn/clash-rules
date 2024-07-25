@@ -40,7 +40,9 @@ payload:
  - DOMAIN,cdn.usefathom.com
  - DOMAIN-SUFFIX,claude.ai
  - DOMAIN-SUFFIX,anthropic.com
- 
+  
+ # 镜像
+ - DOMAIN-SUFFIX,new.oaifree.com
  # CustomAI
  - DOMAIN-SUFFIX,coze.com
  - DOMAIN-SUFFIX,ciciai.com
