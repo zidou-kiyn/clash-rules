@@ -2,3 +2,5 @@ payload:
   - '+.githubusercontent.com'
   - '+.github.com'
   - '+.githubassets.com'
+  - '+.cdn.linux.do'
+  - '+.linux.do'
