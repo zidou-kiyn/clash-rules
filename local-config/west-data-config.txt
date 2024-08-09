@@ -827,7 +827,7 @@ rules:
   # zidou先配置
   - RULE-SET,zidou_direct_applications_classical,🔗 无需代理
   - RULE-SET,zidou_direct_domain,🔗 无需代理
-  - RULE-SET,zidou_ai_classical,🇸🇬 狮城选择
+  - RULE-SET,zidou_ai_classical,🇺🇸 美国选择
   - RULE-SET,zidou_us_domain,🇺🇸 美国选择
   - RULE-SET,zidou_jp_domain,🇯🇵 日本选择
   - RULE-SET,zidou_singapore_ipcidr,🇸🇬 狮城选择

@@ -1,9 +1,6 @@
 payload:
   # 动漫
   - '+.animoe.org'
-  # 接码
-  - '+.sms-activate.io'
-  - 'smsactivate.s3.eu-central-1.amazonaws.com'
   # steam
   - '+.steamcontent.com'
   - '+.steamserver.net'
