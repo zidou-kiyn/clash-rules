@@ -1,6 +1,6 @@
 payload:
   - PROCESS-NAME,TslGame.exe
   - PROCESS-NAME,BEService.exe
-  - PROCESS-NAME,op.exe
   - PROCESS-NAME,EpicWebHelper.exe
   - PROCESS-NAME,Kook.exe
+  - PROCESS-NAME,Termius.exe
