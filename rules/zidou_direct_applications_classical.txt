@@ -3,4 +3,3 @@ payload:
   - PROCESS-NAME,BEService.exe
   - PROCESS-NAME,EpicWebHelper.exe
   - PROCESS-NAME,Kook.exe
-  - PROCESS-NAME,Termius.exe
