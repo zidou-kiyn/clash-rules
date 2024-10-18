@@ -815,7 +815,14 @@ rule-providers:
     url: "https://raw.githubusercontent.com/zidou-kiyn/clash-rules/main/rules/zidou_jp_domain.txt"
     path: ./ruleset/zidou_jp_domain.yaml
     interval: 86400
-
+	
+  zidou_hk_domain:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/zidou-kiyn/clash-rules/main/rules/zidou_hk_domain.txt"
+    path: ./ruleset/zidou_hk_domain.yaml
+    interval: 86400
+	
   zidou_singapore_ipcidr:
     type: http
     behavior: ipcidr
@@ -830,6 +837,7 @@ rules:
   - RULE-SET,zidou_ai_classical,🇺🇸 美国选择
   - RULE-SET,zidou_us_domain,🇺🇸 美国选择
   - RULE-SET,zidou_jp_domain,🇯🇵 日本选择
+  - RULE-SET,zidou_hk_domain,🇭🇰 香港选择
   - RULE-SET,zidou_singapore_ipcidr,🇸🇬 狮城选择
   - RULE-SET,zidou_telegram_classical,✈️ 节点选择
   # 最后是clash规则集

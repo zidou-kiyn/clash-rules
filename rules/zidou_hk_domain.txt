@@ -1,0 +1,2 @@
+payload:
+  - '+.ucloud.zidoukn.cn'
