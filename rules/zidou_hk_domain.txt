@@ -1,2 +1,7 @@
 payload:
   - '+.ucloud.zidoukn.cn'
+  - '+.chatgpt.zidoukn.cn'
+  - '+.api.zidoukn.cn'
+  - '+.chat.zidoukn.cn'
+  - '+.lksy.zidoukn.cn'
+  - '+.helper.zidoukn.cn'
