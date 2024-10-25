@@ -1,5 +1,5 @@
 payload:
   - PROCESS-NAME,TslGame.exe
   - PROCESS-NAME,BEService.exe
-  - PROCESS-NAME,EpicWebHelper.exe
+  - PROCESS-NAME,EpicGamesLauncher.exe
   - PROCESS-NAME,Kook.exe
