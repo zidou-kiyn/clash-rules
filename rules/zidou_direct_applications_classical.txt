@@ -4,3 +4,4 @@ payload:
   - PROCESS-NAME,BEService.exe
   - PROCESS-NAME,EpicGamesLauncher.exe
   - PROCESS-NAME,Kook.exe
+  - PROCESS-NAME,WitchIt.exe
