@@ -1,5 +1,6 @@
 payload:
   - PROCESS-NAME,TslGame.exe
+  - PROCESS-NAME,MovingOut.exe
   - PROCESS-NAME,BEService.exe
   - PROCESS-NAME,EpicGamesLauncher.exe
   - PROCESS-NAME,Kook.exe
